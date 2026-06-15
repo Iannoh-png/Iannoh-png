@@ -29,22 +29,7 @@ An intelligent platform designed for clients relocating to unfamiliar areas. It 
 A rigorous statistical evaluation of an e-commerce platform's new landing page designed to optimize user conversion rates. Developed a comprehensive analytical notebook evaluating user decision data to provide data-backed recommendations on whether the company should implement the new page, retain the old page, or extend the experiment duration.
 * **Tech Stack:** Python, Pandas, NumPy, Hypothesis Testing, Statistical Modeling.
 
----
 
-### 📊 GitHub Analytics
-
-Tailored metrics showcasing active development and language distribution:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=visual_studio&count_private=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=visual_studio" alt="Top Languages" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=visual_studio" alt="GitHub Streak" width="87%"/>
-</p>
-
----
 
 ### 🤝 Let's Connect!
 * **LinkedIn:** [Your Name](https://linkedin.com/in/Ian Kariuki)
